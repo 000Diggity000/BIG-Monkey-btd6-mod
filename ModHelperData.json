@@ -1,0 +1,9 @@
+{
+    "Name": "BIG Monkey",
+    "Description": "Adds a really big space monkey",
+    "WorksOnVersion": "34.3",
+    "Version": "1.0.0",
+    "Icon": "biggestmonkey.png",
+    "RepoOwner": "000Diggity000",
+    "RepoName": "BIG-Monkey-btd6-mod"
+}
